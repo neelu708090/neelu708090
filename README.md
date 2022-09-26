@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nihal Singh
 - 👀 I’m interested in C++,Python,ML,Cloud Computing.
 - 🌱 I’m currently learning ML using Python
-- 💞️ I’m looking to collaborate on Pojects on ML.
+- 💞️ I’m looking to collaborate on Pojects on ML, Django.
 - 📫 How to reach me www.linkedin.com/in/nihal-singh-8299030439
 
 <!---
